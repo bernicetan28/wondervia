@@ -3,6 +3,7 @@
 Wondervia is a web application designed to streamline restaurant discovery based on user preferences. By leveraging location data, Wondervia allows users to effortlessly explore nearby dining options and refine their search through filters such as cuisine type such as Japanese, Chinese, Italian, Thai, and more. The platform provides a personalized and intuitive experience, helping users find exactly what they're craving with greater ease and efficiency.
 
 ![image alt](https://github.com/bernicetan28/wondervia/blob/a499f6bfe85ab8dec06f76fe2bef7149140c3a3b/Screenshot%202025-06-17%20140423.png)
+
 ![image alt](https://github.com/bernicetan28/wondervia/blob/a499f6bfe85ab8dec06f76fe2bef7149140c3a3b/Screenshot%202025-06-17%20140500.png)
 
 ## Technology
