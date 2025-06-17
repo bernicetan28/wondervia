@@ -7,4 +7,12 @@ Wondervia is a web application designed to streamline restaurant discovery based
 
 ## Technology
 
-Wondervia is a web application built with Next.js, a React-based framework, and styled using Tailwind CSS for a clean and responsive design. It utilizes the Google Places API to display nearby restaurants based on the user’s location.
+Wondervia is a web application built with Next.js, a React-based framework, and styled using Tailwind CSS for a clean and responsive design. It utilizes the Google Places API and Google Maps to display nearby restaurants based on the user’s location.
+
+## Features
+
+- Seamlessly explore nearby restaurants with a responsive map interface that pinpoints each location accurately
+-Search and filter restaurants based on your current location and preferred cuisine type
+- Access restaurant details including restaurant name, address, user rating
+- Easily navigate to your selected restaurant with the integrated directions feature that opens a dedicated page for navigation via Google Map
+- Powered by Google Places, provides up-to-date restaurant listings and travel data.
